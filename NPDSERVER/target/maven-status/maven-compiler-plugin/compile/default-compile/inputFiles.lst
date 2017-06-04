@@ -1,0 +1,14 @@
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/URIinfo.java
+/Users/Ian/Cloud/NPD2/src/main/java/seCurity/BasicAuth.java
+/Users/Ian/Cloud/NPD2/src/main/java/dbServer/Doctors.java
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/SearchByDoctor.java
+/Users/Ian/Cloud/NPD2/src/main/java/dbServer/Patients.java
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/NewPatient.java
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/PatientRecientScore.java
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/MaxScore.java
+/Users/Ian/Cloud/NPD2/src/main/java/seCurity/AuthFilter.java
+/Users/Ian/Cloud/NPD2/src/main/java/dbServer/DbConn.java
+/Users/Ian/Cloud/NPD2/src/main/java/seCurity/MySecurityContext.java
+/Users/Ian/Cloud/NPD2/src/main/java/msgModel/LoginMsg.java
+/Users/Ian/Cloud/NPD2/src/main/java/dbServer/User.java
+/Users/Ian/Cloud/NPD2/src/main/java/seCurity/JerseyServer.java

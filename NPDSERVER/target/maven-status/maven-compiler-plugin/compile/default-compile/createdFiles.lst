@@ -1,0 +1,15 @@
+dbServer/User.class
+seCurity/BasicAuth.class
+msgModel/MaxScore.class
+msgModel/NewDoctor.class
+seCurity/JerseyServer.class
+msgModel/PatientRecientScore.class
+msgModel/NewPatient.class
+seCurity/AuthFilter.class
+msgModel/LoginMsg.class
+msgModel/SearchByDoctor.class
+msgModel/URIinfo.class
+dbServer/Doctors.class
+dbServer/DbConn.class
+dbServer/Patients.class
+seCurity/MySecurityContext.class
