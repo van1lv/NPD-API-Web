@@ -8,4 +8,4 @@ I used tomcat as web server in this project. You can just put the war file gener
 
 Let me know if anything you need. van1lv@outlook.com
 
-The video of website is here : https://youtu.be/gDadZhzdQ2U
+The video of website demo can be found at here : https://youtu.be/gDadZhzdQ2U
